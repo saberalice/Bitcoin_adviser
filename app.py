@@ -3,7 +3,6 @@ import yfinance as yf
 import pandas as pd
 import plotly.graph_objects as go
 import requests
-from openai import OpenAI
 from groq import Groq
 
 # --- 1. 網頁基本設定 ---
